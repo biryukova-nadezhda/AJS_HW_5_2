@@ -1,7 +1,7 @@
 # Домашняя работа по теме Классы, наследование
 ## Задача №1
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/lkbfo0d02hi02lva?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ajs-hw-5-2)
 
 ---
 ### Методы
